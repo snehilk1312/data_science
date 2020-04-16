@@ -1,0 +1,6 @@
+the pdfs in this folder are properties of:
+
+Rodríguez, G. (2007). Lecture Notes on Generalized Linear Models. URL: http://data.princeton.edu/wws509/notes/ 
+
+
+© 2020 Germán Rodríguez, Princeton University 
