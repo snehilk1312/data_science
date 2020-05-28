@@ -1,0 +1,11 @@
+,raceId,driverId,constructorId,positionOrder,points,laps,milliseconds,fastestLapSpeed,statusId,year,round,race_name,status,constructorRef,constructor_name,nationality,driver_name
+2134,104,22,6,1,10.0,53,4518448.0,257.32,1,2004,15,Italian Grand Prix,Finished,ferrari,Ferrari,Italian,barrichello
+2135,104,30,6,2,8.0,53,4519795.0,256.324,1,2004,15,Italian Grand Prix,Finished,ferrari,Ferrari,Italian,michael_schumacher
+1757,85,8,1,4,5.0,53,4491434.0,255.874,1,2005,15,Italian Grand Prix,Finished,mclaren,McLaren,British,raikkonen
+1754,85,31,1,1,10.0,53,4468659.0,254.861,1,2005,15,Italian Grand Prix,Finished,mclaren,McLaren,British,montoya
+1755,85,4,4,2,8.0,53,4471138.0,253.874,1,2005,15,Italian Grand Prix,Finished,renault,Renault,French,alonso
+2140,104,42,3,7,2.0,53,4552200.0,253.566,1,2004,15,Italian Grand Prix,Finished,williams,Williams,British,pizzonia
+1391,67,8,1,2,8.0,53,4500021.0,252.604,1,2006,15,Italian Grand Prix,Finished,mclaren,McLaren,British,raikkonen
+1390,67,30,6,1,10.0,53,4491975.0,252.555,1,2006,15,Italian Grand Prix,Finished,ferrari,Ferrari,Italian,michael_schumacher
+1756,85,21,4,3,6.0,53,4486634.0,252.519,1,2005,15,Italian Grand Prix,Finished,renault,Renault,French,fisichella
+2141,104,21,15,8,1.0,53,4553879.0,252.433,1,2004,15,Italian Grand Prix,Finished,sauber,Sauber,Swiss,fisichella

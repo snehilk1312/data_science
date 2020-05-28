@@ -1,0 +1,71 @@
+,season,Driver,Constructor,freq
+0,1950,Giuseppe Farina,Alfa Romeo,1
+1,1951,Juan Manuel Fangio,Alfa Romeo,5
+2,1952,Alberto Ascari,Ferrari,2
+3,1953,Alberto Ascari,Ferrari,2
+4,1954,Juan Manuel Fangio,Maserati,5
+6,1955,Juan Manuel Fangio,Mercedes,5
+7,1956,Juan Manuel Fangio,Ferrari,5
+8,1957,Juan Manuel Fangio,Maserati,5
+9,1958,Mike Hawthorn,Ferrari,1
+10,1959,Jack Brabham,Climax,3
+11,1960,Jack Brabham,Climax,3
+12,1961,Phil Hill,Ferrari,1
+13,1962,Graham Hill,BRM,2
+14,1963,Jim Clark,Climax,2
+15,1964,John Surtees,Ferrari,1
+16,1965,Jim Clark,Climax,2
+17,1966,Jack Brabham,,3
+18,1967,Denny Hulme,,1
+19,1968,Graham Hill,Ford,2
+20,1969,Jackie Stewart,Ford,3
+21,1970,Jochen Rindt,Ford,1
+22,1971,Jackie Stewart,Ford,3
+23,1972,Emerson Fittipaldi,Ford,2
+24,1973,Jackie Stewart,Ford,3
+25,1974,Emerson Fittipaldi,Ford,2
+26,1975,Niki Lauda,Ferrari,3
+27,1976,James Hunt,Ford,1
+28,1977,Niki Lauda,Ferrari,3
+29,1978,Mario Andretti,Ford,1
+30,1979,Jody Scheckter,Ferrari,1
+31,1980,Alan Jones,Ford,1
+32,1981,Nelson Piquet,Ford,3
+33,1982,Keke Rosberg,Ford,1
+34,1983,Nelson Piquet,BMW,3
+35,1984,Niki Lauda,TAG,3
+36,1985,Alain Prost,TAG,4
+37,1986,Alain Prost,TAG,4
+38,1987,Nelson Piquet,Honda,3
+39,1988,Ayrton Senna,Honda,3
+40,1989,Alain Prost,Honda,4
+41,1990,Ayrton Senna,Honda,3
+42,1991,Ayrton Senna,Honda,3
+43,1992,Nigel Mansell,Renault,1
+44,1993,Alain Prost,Renault,4
+45,1994,Michael Schumacher,Ford,7
+46,1995,Michael Schumacher,Renault,7
+47,1996,Damon Hill,Renault,1
+48,1997,Jacques Villeneuve,Renault,1
+49,1998,Mika Häkkinen,Mercedes,2
+50,1999,Mika Häkkinen,Mercedes,2
+51,2000,Michael Schumacher,Ferrari,7
+52,2001,Michael Schumacher,Ferrari,7
+53,2002,Michael Schumacher,Ferrari,7
+54,2003,Michael Schumacher,Ferrari,7
+55,2004,Michael Schumacher,Ferrari,7
+56,2005,Fernando Alonso,Renault,2
+57,2006,Fernando Alonso,Renault,2
+58,2007,Kimi Räikkönen,Ferrari,1
+59,2008,Lewis Hamilton,Mercedes,6
+60,2009,Jenson Button,Mercedes,1
+61,2010,Sebastian Vettel,Renault,4
+62,2011,Sebastian Vettel,Renault,4
+63,2012,Sebastian Vettel,Renault,4
+64,2013,Sebastian Vettel,Renault,4
+65,2014,Lewis Hamilton,Mercedes,6
+66,2015,Lewis Hamilton,Mercedes,6
+67,2016,Nico Rosberg,Mercedes,1
+68,2017,Lewis Hamilton,Mercedes,6
+69,2018,Lewis Hamilton,Mercedes,6
+70,2019,Lewis Hamilton,Mercedes,6
