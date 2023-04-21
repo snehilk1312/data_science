@@ -1,0 +1,56 @@
+REGRESSION ANALYSIS:
+
+i) Dependent Variable , y
+ii)Predictor variable , x1, x2,etc
+iii)Conditional mean
+iv)Linear least squares
+v)Regression Parameters , b0, b1, b2
+vi)Intercept and Slope
+vii)error or unexplained variation
+viii)Conditional Mean Function , i.e Regression Function
+ix)Constant Variance, i.e Homoscedasticity
+x)Nonconstant variance, i.e Heteroscedasticity
+xi)Fitted values, Predicted values
+xii)R-squared, i.e Proportion of explained variance, coefficient of determination
+xiv)Causality
+xv)Correlation or Association
+xvi)Experimental Data and Objervational(Non-Experimental) Data
+xvii)Causal Inference
+xviii)Parameter Estimation
+xix)Marginal Regression and Multilevel Modelling
+xx)bias and estimation variance
+xxi)Collinearitylation
+xxii)categorical variables and reference level
+xxiii)residuals
+xxiv)Extrapo
+
+
+Linearity:
+NOTE:The conditional mean model used in a linear least square analysisis linear in two senses:
+(i) it is linear in the predictor variables, and 
+(ii)it is linear in the regression parameters. 
+
+explanation:
+
+Consider an equation of the form
+
+y=β0+β1x1+β2x2+ϵ
+
+where x's are the variables and β's are the parameters. Here, y is a linear function of β's (linear in parameters) and also a linear function of x's (linear in variables). If you change the equation to
+
+y=β0+β1x1+β2x21+ϵ
+
+Then, it is no longer linear in variables (because of the squared term) but it is still linear in parameters. And for (multiple) linear regression, that's all that matters because in the end, you are trying to find a set of β
+'s that minimizes a loss function. For that, you need to solve a system of linear equations. Given its nice properties, it has a closed form solution that makes our lives easier. Things get harder when you deal with nonlinear equations.
+
+
+
+
+
+Estimation Variance:
+Estimation variance is inevitable in any statistical analysis.  It reflects thefact that we can never recover a population exactly using a finite amount ofdata.  The estimation variance is determined predominantly by the samplesize  –  the  more  data  we  have,  the  lower  the  estimation  variance  will  be.Estimation variance in a regression model is also strongly influenced by three other characteristics – 
+i)the level of conditional variance -> Bad Variance
+ii)the variance of thepredictor variables -> Good Variance
+iii)the correlations among the predictor variables -> Bad Variance
+iv)correlations between predictor variables and the de-pendent variable -> Good Variance
+
