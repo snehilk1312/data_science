@@ -1,2 +1,4 @@
 .ipynb_checkpoints
 models
+NLP/fasttext/data/
+NLP/NLP_lazy-programmer/data/spam_or_not_spam.csv
